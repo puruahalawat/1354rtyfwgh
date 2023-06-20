@@ -6,7 +6,7 @@
 *
 * Name: _PURU AHALAWAT_____________________ Student ID: _170440218_____________ Date: ___19-06-2023_____________
 *
-* Cyclic Web App URL: __https://fair-tadpole.cyclic.app______________________________________________________
+* Cyclic Web App URL: ________________________________________________________
 *
 * GitHub Repository URL: _https://github.com/rohitarora786/web322-2--app_____________________________________________________
 *
